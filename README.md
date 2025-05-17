@@ -1,5 +1,5 @@
 # ☕ TEA_SHOP_BUSINESS
-![image]    (https://github.com/user-attachments/assets/e2d39836-988a-4945-9180-0d116e31e88f)
+![image](https://github.com/user-attachments/assets/e2d39836-988a-4945-9180-0d116e31e88f)
 
 # Tea Shop SQL Database Project
 This project provides a complete SQL database for a Tea Shop Business in India. It includes schema creation, sample data, ER diagram, and essential SQL queries for business insights.
