@@ -1,20 +1,21 @@
 
--- Extended Branches with ZIP codes
-INSERT INTO Branches VALUES (1, 'Kolkata', 'West Bengal', '700001');
-INSERT INTO Branches VALUES (2, 'Chennai', 'Tamil Nadu', '600001');
-INSERT INTO Branches VALUES (3, 'Ahmedabad', 'Gujarat', '380001');
-INSERT INTO Branches VALUES (4, 'Delhi', 'Delhi', '110001');
-INSERT INTO Branches VALUES (5, 'Mumbai', 'Maharashtra', '400001');
-INSERT INTO Branches VALUES (6, 'Bengaluru', 'Karnataka', '560001');
-INSERT INTO Branches VALUES (7, 'Hyderabad', 'Telangana', '500001');
-INSERT INTO Branches VALUES (8, 'Pune', 'Maharashtra', '411001');
-INSERT INTO Branches VALUES (9, 'Lucknow', 'Uttar Pradesh', '226001');
-INSERT INTO Branches VALUES (10, 'Jaipur', 'Rajasthan', '302001');
-INSERT INTO Branches VALUES (11, 'Patna', 'Bihar', '800001');
-INSERT INTO Branches VALUES (12, 'Bhopal', 'Madhya Pradesh', '462001');
-INSERT INTO Branches VALUES (13, 'Indore', 'Madhya Pradesh', '452001');
-INSERT INTO Branches VALUES (14, 'Nagpur', 'Maharashtra', '440001');
-INSERT INTO Branches VALUES (15, 'Thiruvananthapuram', 'Kerala', '695001');
+-- Branches 
+INSERT INTO Branches VALUES
+ (1, 'Kolkata', 'West Bengal', '700001'),
+ (2, 'Chennai', 'Tamil Nadu', '600001'),
+ (3, 'Ahmedabad', 'Gujarat', '380001'),
+ (4, 'Delhi', 'Delhi', '110001'),
+ (5, 'Mumbai', 'Maharashtra', '40001'),
+ (6, 'Bengaluru', 'Karnataka', '560001'),
+ (7, 'Hyderabad', 'Telangana', '500001'),
+ (8, 'Pune', 'Maharashtra', '411001'),
+ (9, 'Lucknow', 'Uttar Pradesh', '226001'),
+ (10, 'Jaipur', 'Rajasthan', '302001'),
+ (11, 'Patna', 'Bihar', '800001'),
+ (12, 'Bhopal', 'Madhya Pradesh', '462001'),
+ (13, 'Indore', 'Madhya Pradesh', '452001'),
+ (14, 'Nagpur', 'Maharashtra', '440001'),
+ (15, 'Thiruvananthapuram', 'Kerala', '695001');
 
 -- Products
 INSERT INTO Products VALUES
@@ -25,156 +26,157 @@ INSERT INTO Products VALUES
 (5, 'Elaichi Chai', 28.00);
 
 -- Customers
-INSERT INTO Customers VALUES (1, 'Customer_1', '9000000001');
-INSERT INTO Customers VALUES (2, 'Customer_2', '9000000002');
-INSERT INTO Customers VALUES (3, 'Customer_3', '9000000003');
-INSERT INTO Customers VALUES (4, 'Customer_4', '9000000004');
-INSERT INTO Customers VALUES (5, 'Customer_5', '9000000005');
-INSERT INTO Customers VALUES (6, 'Customer_6', '9000000006');
-INSERT INTO Customers VALUES (7, 'Customer_7', '9000000007');
-INSERT INTO Customers VALUES (8, 'Customer_8', '9000000008');
-INSERT INTO Customers VALUES (9, 'Customer_9', '9000000009');
-INSERT INTO Customers VALUES (10, 'Customer_10', '9000000010');
-INSERT INTO Customers VALUES (11, 'Customer_11', '9000000011');
-INSERT INTO Customers VALUES (12, 'Customer_12', '9000000012');
-INSERT INTO Customers VALUES (13, 'Customer_13', '9000000013');
-INSERT INTO Customers VALUES (14, 'Customer_14', '9000000014');
-INSERT INTO Customers VALUES (15, 'Customer_15', '9000000015');
-INSERT INTO Customers VALUES (16, 'Customer_16', '9000000016');
-INSERT INTO Customers VALUES (17, 'Customer_17', '9000000017');
-INSERT INTO Customers VALUES (18, 'Customer_18', '9000000018');
-INSERT INTO Customers VALUES (19, 'Customer_19', '9000000019');
-INSERT INTO Customers VALUES (20, 'Customer_20', '9000000020');
-INSERT INTO Customers VALUES (21, 'Customer_21', '9000000021');
-INSERT INTO Customers VALUES (22, 'Customer_22', '9000000022');
-INSERT INTO Customers VALUES (23, 'Customer_23', '9000000023');
-INSERT INTO Customers VALUES (24, 'Customer_24', '9000000024');
-INSERT INTO Customers VALUES (25, 'Customer_25', '9000000025');
-INSERT INTO Customers VALUES (26, 'Customer_26', '9000000026');
-INSERT INTO Customers VALUES (27, 'Customer_27', '9000000027');
-INSERT INTO Customers VALUES (28, 'Customer_28', '9000000028');
-INSERT INTO Customers VALUES (29, 'Customer_29', '9000000029');
-INSERT INTO Customers VALUES (30, 'Customer_30', '9000000030');
-INSERT INTO Customers VALUES (31, 'Customer_31', '9000000031');
-INSERT INTO Customers VALUES (32, 'Customer_32', '9000000032');
-INSERT INTO Customers VALUES (33, 'Customer_33', '9000000033');
-INSERT INTO Customers VALUES (34, 'Customer_34', '9000000034');
-INSERT INTO Customers VALUES (35, 'Customer_35', '9000000035');
-INSERT INTO Customers VALUES (36, 'Customer_36', '9000000036');
-INSERT INTO Customers VALUES (37, 'Customer_37', '9000000037');
-INSERT INTO Customers VALUES (38, 'Customer_38', '9000000038');
-INSERT INTO Customers VALUES (39, 'Customer_39', '9000000039');
-INSERT INTO Customers VALUES (40, 'Customer_40', '9000000040');
-INSERT INTO Customers VALUES (41, 'Customer_41', '9000000041');
-INSERT INTO Customers VALUES (42, 'Customer_42', '9000000042');
-INSERT INTO Customers VALUES (43, 'Customer_43', '9000000043');
-INSERT INTO Customers VALUES (44, 'Customer_44', '9000000044');
-INSERT INTO Customers VALUES (45, 'Customer_45', '9000000045');
-INSERT INTO Customers VALUES (46, 'Customer_46', '9000000046');
-INSERT INTO Customers VALUES (47, 'Customer_47', '9000000047');
-INSERT INTO Customers VALUES (48, 'Customer_48', '9000000048');
-INSERT INTO Customers VALUES (49, 'Customer_49', '9000000049');
-INSERT INTO Customers VALUES (50, 'Customer_50', '9000000050');
-INSERT INTO Customers VALUES (51, 'Customer_51', '9000000051');
-INSERT INTO Customers VALUES (52, 'Customer_52', '9000000052');
-INSERT INTO Customers VALUES (53, 'Customer_53', '9000000053');
-INSERT INTO Customers VALUES (54, 'Customer_54', '9000000054');
-INSERT INTO Customers VALUES (55, 'Customer_55', '9000000055');
-INSERT INTO Customers VALUES (56, 'Customer_56', '9000000056');
-INSERT INTO Customers VALUES (57, 'Customer_57', '9000000057');
-INSERT INTO Customers VALUES (58, 'Customer_58', '9000000058');
-INSERT INTO Customers VALUES (59, 'Customer_59', '9000000059');
-INSERT INTO Customers VALUES (60, 'Customer_60', '9000000060');
-INSERT INTO Customers VALUES (61, 'Customer_61', '9000000061');
-INSERT INTO Customers VALUES (62, 'Customer_62', '9000000062');
-INSERT INTO Customers VALUES (63, 'Customer_63', '9000000063');
-INSERT INTO Customers VALUES (64, 'Customer_64', '9000000064');
-INSERT INTO Customers VALUES (65, 'Customer_65', '9000000065');
-INSERT INTO Customers VALUES (66, 'Customer_66', '9000000066');
-INSERT INTO Customers VALUES (67, 'Customer_67', '9000000067');
-INSERT INTO Customers VALUES (68, 'Customer_68', '9000000068');
-INSERT INTO Customers VALUES (69, 'Customer_69', '9000000069');
-INSERT INTO Customers VALUES (70, 'Customer_70', '9000000070');
-INSERT INTO Customers VALUES (71, 'Customer_71', '9000000071');
-INSERT INTO Customers VALUES (72, 'Customer_72', '9000000072');
-INSERT INTO Customers VALUES (73, 'Customer_73', '9000000073');
-INSERT INTO Customers VALUES (74, 'Customer_74', '9000000074');
-INSERT INTO Customers VALUES (75, 'Customer_75', '9000000075');
-INSERT INTO Customers VALUES (76, 'Customer_76', '9000000076');
-INSERT INTO Customers VALUES (77, 'Customer_77', '9000000077');
-INSERT INTO Customers VALUES (78, 'Customer_78', '9000000078');
-INSERT INTO Customers VALUES (79, 'Customer_79', '9000000079');
-INSERT INTO Customers VALUES (80, 'Customer_80', '9000000080');
-INSERT INTO Customers VALUES (81, 'Customer_81', '9000000081');
-INSERT INTO Customers VALUES (82, 'Customer_82', '9000000082');
-INSERT INTO Customers VALUES (83, 'Customer_83', '9000000083');
-INSERT INTO Customers VALUES (84, 'Customer_84', '9000000084');
-INSERT INTO Customers VALUES (85, 'Customer_85', '9000000085');
-INSERT INTO Customers VALUES (86, 'Customer_86', '9000000086');
-INSERT INTO Customers VALUES (87, 'Customer_87', '9000000087');
-INSERT INTO Customers VALUES (88, 'Customer_88', '9000000088');
-INSERT INTO Customers VALUES (89, 'Customer_89', '9000000089');
-INSERT INTO Customers VALUES (90, 'Customer_90', '9000000090');
-INSERT INTO Customers VALUES (91, 'Customer_91', '9000000091');
-INSERT INTO Customers VALUES (92, 'Customer_92', '9000000092');
-INSERT INTO Customers VALUES (93, 'Customer_93', '9000000093');
-INSERT INTO Customers VALUES (94, 'Customer_94', '9000000094');
-INSERT INTO Customers VALUES (95, 'Customer_95', '9000000095');
-INSERT INTO Customers VALUES (96, 'Customer_96', '9000000096');
-INSERT INTO Customers VALUES (97, 'Customer_97', '9000000097');
-INSERT INTO Customers VALUES (98, 'Customer_98', '9000000098');
-INSERT INTO Customers VALUES (99, 'Customer_99', '9000000099');
-INSERT INTO Customers VALUES (100, 'Customer_100', '9000000100');
-INSERT INTO Customers VALUES (101, 'Customer_101', '9000000101');
-INSERT INTO Customers VALUES (102, 'Customer_102', '9000000102');
-INSERT INTO Customers VALUES (103, 'Customer_103', '9000000103');
-INSERT INTO Customers VALUES (104, 'Customer_104', '9000000104');
-INSERT INTO Customers VALUES (105, 'Customer_105', '9000000105');
-INSERT INTO Customers VALUES (106, 'Customer_106', '9000000106');
-INSERT INTO Customers VALUES (107, 'Customer_107', '9000000107');
-INSERT INTO Customers VALUES (108, 'Customer_108', '9000000108');
-INSERT INTO Customers VALUES (109, 'Customer_109', '9000000109');
-INSERT INTO Customers VALUES (110, 'Customer_110', '9000000110');
-INSERT INTO Customers VALUES (111, 'Customer_111', '9000000111');
-INSERT INTO Customers VALUES (112, 'Customer_112', '9000000112');
-INSERT INTO Customers VALUES (113, 'Customer_113', '9000000113');
-INSERT INTO Customers VALUES (114, 'Customer_114', '9000000114');
-INSERT INTO Customers VALUES (115, 'Customer_115', '9000000115');
-INSERT INTO Customers VALUES (116, 'Customer_116', '9000000116');
-INSERT INTO Customers VALUES (117, 'Customer_117', '9000000117');
-INSERT INTO Customers VALUES (118, 'Customer_118', '9000000118');
-INSERT INTO Customers VALUES (119, 'Customer_119', '9000000119');
-INSERT INTO Customers VALUES (120, 'Customer_120', '9000000120');
-INSERT INTO Customers VALUES (121, 'Customer_121', '9000000121');
-INSERT INTO Customers VALUES (122, 'Customer_122', '9000000122');
-INSERT INTO Customers VALUES (123, 'Customer_123', '9000000123');
-INSERT INTO Customers VALUES (124, 'Customer_124', '9000000124');
-INSERT INTO Customers VALUES (125, 'Customer_125', '9000000125');
-INSERT INTO Customers VALUES (126, 'Customer_126', '9000000126');
-INSERT INTO Customers VALUES (127, 'Customer_127', '9000000127');
-INSERT INTO Customers VALUES (128, 'Customer_128', '9000000128');
-INSERT INTO Customers VALUES (129, 'Customer_129', '9000000129');
-INSERT INTO Customers VALUES (130, 'Customer_130', '9000000130');
-INSERT INTO Customers VALUES (131, 'Customer_131', '9000000131');
-INSERT INTO Customers VALUES (132, 'Customer_132', '9000000132');
-INSERT INTO Customers VALUES (133, 'Customer_133', '9000000133');
-INSERT INTO Customers VALUES (134, 'Customer_134', '9000000134');
-INSERT INTO Customers VALUES (135, 'Customer_135', '9000000135');
-INSERT INTO Customers VALUES (136, 'Customer_136', '9000000136');
-INSERT INTO Customers VALUES (137, 'Customer_137', '9000000137');
-INSERT INTO Customers VALUES (138, 'Customer_138', '9000000138');
-INSERT INTO Customers VALUES (139, 'Customer_139', '9000000139');
-INSERT INTO Customers VALUES (140, 'Customer_140', '9000000140');
-INSERT INTO Customers VALUES (141, 'Customer_141', '9000000141');
-INSERT INTO Customers VALUES (142, 'Customer_142', '9000000142');
-INSERT INTO Customers VALUES (143, 'Customer_143', '9000000143');
-INSERT INTO Customers VALUES (144, 'Customer_144', '9000000144');
-INSERT INTO Customers VALUES (145, 'Customer_145', '9000000145');
-INSERT INTO Customers VALUES (146, 'Customer_146', '9000000146');
-INSERT INTO Customers VALUES (147, 'Customer_147', '9000000147');
-INSERT INTO Customers VALUES (148, 'Customer_148', '9000000148');
-INSERT INTO Customers VALUES (149, 'Customer_149', '9000000149');
-INSERT INTO Customers VALUES (150, 'Customer_150', '9000000150');
+INSERT INTO Customers VALUES
+ (1, 'Customer_1', '9000000001'),
+ (2, 'Customer_2', '9000000002'),
+ (3, 'Customer_3', '9000000003'),
+ (4, 'Customer_4', '9000000004'),
+ (5, 'Customer_5', '9000000005'),
+ (6, 'Customer_6', '9000000006'),
+ (7, 'Customer_7', '9000000007'),
+ (8, 'Customer_8', '9000000008'),
+ (9, 'Customer_9', '9000000009'),
+ (10, 'Customer_10', '9000000010'),
+ (11, 'Customer_11', '9000000011'),
+ (12, 'Customer_12', '9000000012'),
+ (13, 'Customer_13', '9000000013'),
+ (14, 'Customer_14', '9000000014'),
+ (15, 'Customer_15', '9000000015'),
+ (16, 'Customer_16', '9000000016'),
+ (17, 'Customer_17', '9000000017'),
+ (18, 'Customer_18', '9000000018'),
+ (19, 'Customer_19', '9000000019'),
+ (20, 'Customer_20', '9000000020'),
+ (21, 'Customer_21', '9000000021'),
+ (22, 'Customer_22', '9000000022'),
+ (23, 'Customer_23', '9000000023'),
+ (24, 'Customer_24', '9000000024'),
+ (25, 'Customer_25', '9000000025'),
+ (26, 'Customer_26', '9000000026'),
+ (27, 'Customer_27', '9000000027'),
+ (28, 'Customer_28', '9000000028'),
+ (29, 'Customer_29', '9000000029'),
+ (30, 'Customer_30', '9000000030'),
+ (31, 'Customer_31', '9000000031'),
+ (32, 'Customer_32', '9000000032'),
+ (33, 'Customer_33', '9000000033'),
+ (34, 'Customer_34', '9000000034'),
+ (35, 'Customer_35', '9000000035'),
+ (36, 'Customer_36', '9000000036'),
+ (37, 'Customer_37', '9000000037'),
+ (38, 'Customer_38', '9000000038'),
+ (39, 'Customer_39', '9000000039'),
+ (40, 'Customer_40', '9000000040'),
+ (41, 'Customer_41', '9000000041'),
+ (42, 'Customer_42', '9000000042'),
+ (43, 'Customer_43', '9000000043'),
+ (44, 'Customer_44', '9000000044'),
+ (45, 'Customer_45', '9000000045'),
+ (46, 'Customer_46', '9000000046'),
+ (47, 'Customer_47', '9000000047'),
+ (48, 'Customer_48', '9000000048'),
+ (49, 'Customer_49', '9000000049'),
+ (50, 'Customer_50', '9000000050'),
+ (51, 'Customer_51', '9000000051'),
+ (52, 'Customer_52', '9000000052'),
+ (53, 'Customer_53', '9000000053'),
+ (54, 'Customer_54', '9000000054'),
+ (55, 'Customer_55', '9000000055'),
+ (56, 'Customer_56', '9000000056'),
+ (57, 'Customer_57', '9000000057'),
+ (58, 'Customer_58', '9000000058'),
+ (59, 'Customer_59', '9000000059'),
+ (60, 'Customer_60', '9000000060'),
+ (61, 'Customer_61', '9000000061'),
+ (62, 'Customer_62', '9000000062'),
+ (63, 'Customer_63', '9000000063'),
+ (64, 'Customer_64', '9000000064'),
+ (65, 'Customer_65', '9000000065'),
+ (66, 'Customer_66', '9000000066'),
+ (67, 'Customer_67', '9000000067'),
+ (68, 'Customer_68', '9000000068'),
+ (69, 'Customer_69', '9000000069'),
+ (70, 'Customer_70', '9000000070'),
+ (71, 'Customer_71', '9000000071'),
+ (72, 'Customer_72', '9000000072'),
+ (73, 'Customer_73', '9000000073'),
+ (74, 'Customer_74', '9000000074'),
+ (75, 'Customer_75', '9000000075'),
+ (76, 'Customer_76', '9000000076'),
+ (77, 'Customer_77', '9000000077'),
+ (78, 'Customer_78', '9000000078'),
+ (79, 'Customer_79', '9000000079'),
+ (80, 'Customer_80', '9000000080'),
+ (81, 'Customer_81', '9000000081'),
+ (82, 'Customer_82', '9000000082'),
+ (83, 'Customer_83', '9000000083'),
+ (84, 'Customer_84', '9000000084'),
+ (85, 'Customer_85', '9000000085'),
+ (86, 'Customer_86', '9000000086'),
+ (87, 'Customer_87', '9000000087'),
+ (88, 'Customer_88', '9000000088'),
+ (89, 'Customer_89', '9000000089'),
+ (90, 'Customer_90', '9000000090'),
+ (91, 'Customer_91', '9000000091'),
+ (92, 'Customer_92', '9000000092'),
+ (93, 'Customer_93', '9000000093'),
+ (94, 'Customer_94', '9000000094'),
+ (95, 'Customer_95', '9000000095'),
+ (96, 'Customer_96', '9000000096'),
+ (97, 'Customer_97', '9000000097'),
+ (98, 'Customer_98', '9000000098'),
+ (99, 'Customer_99', '9000000099'),
+ (100, 'Customer_100', '9000000100'),
+ (101, 'Customer_101', '9000000101'),
+ (102, 'Customer_102', '9000000102'),
+ (103, 'Customer_103', '9000000103'),
+ (104, 'Customer_104', '9000000104'),
+ (105, 'Customer_105', '9000000105'),
+ (106, 'Customer_106', '9000000106'),
+ (107, 'Customer_107', '9000000107'),
+ (108, 'Customer_108', '9000000108'),
+ (109, 'Customer_109', '9000000109'),
+ (110, 'Customer_110', '9000000110'),
+ (111, 'Customer_111', '9000000111'),
+ (112, 'Customer_112', '9000000112'),
+ (113, 'Customer_113', '9000000113'),
+ (114, 'Customer_114', '9000000114'),
+ (115, 'Customer_115', '9000000115'),
+ (116, 'Customer_116', '9000000116'),
+ (117, 'Customer_117', '9000000117'),
+ (118, 'Customer_118', '9000000118'),
+ (119, 'Customer_119', '9000000119'),
+ (120, 'Customer_120', '9000000120'),
+ (121, 'Customer_121', '9000000121'),
+ (122, 'Customer_122', '9000000122'),
+ (123, 'Customer_123', '9000000123'),
+ (124, 'Customer_124', '9000000124'),
+ (125, 'Customer_125', '9000000125'),
+ (126, 'Customer_126', '9000000126'),
+ (127, 'Customer_127', '9000000127'),
+ (128, 'Customer_128', '9000000128'),
+ (129, 'Customer_129', '9000000129'),
+ (130, 'Customer_130', '9000000130'),
+ (131, 'Customer_131', '9000000131'),
+ (132, 'Customer_132', '9000000132'),
+ (133, 'Customer_133', '9000000133'),
+ (134, 'Customer_134', '9000000134'),
+ (135, 'Customer_135', '9000000135'),
+ (136, 'Customer_136', '9000000136'),
+ (137, 'Customer_137', '9000000137'),
+ (138, 'Customer_138', '9000000138'),
+ (139, 'Customer_139', '9000000139'),
+ (140, 'Customer_140', '9000000140'),
+ (141, 'Customer_141', '9000000141'),
+ (142, 'Customer_142', '9000000142'),
+ (143, 'Customer_143', '9000000143'),
+ (144, 'Customer_144', '9000000144'),
+ (145, 'Customer_145', '9000000145'),
+ (146, 'Customer_146', '9000000146'),
+ (147, 'Customer_147', '9000000147'),
+ (148, 'Customer_148', '9000000148'),
+ (149, 'Customer_149', '9000000149'),
+ (150, 'Customer_150', '9000000150');
 
 -- Employees
 INSERT INTO Employees VALUES (1, 'Employee_1', 'Role_1', 2);
