@@ -10,13 +10,10 @@ This project represents a complete relational database for managing a tea shop b
 - **ER Diagram**: Visual schema of the database (see `schema_tea_shop.png`)
 - **SQL Script**: All table creation, insertion, and business queries (`tea_shop_business_code.sql.sql`)
 - **README**: Overview and guide to understand and use the database.
-- **code output:
 ---
 
 ## 🛠️ **Tools**: 
-
-
-
+![image](https://github.com/user-attachments/assets/3b83f541-1d2f-4744-9bc5-73337a7f42c0)
 ---
 
 ## 🧱 Database Schema Overview
