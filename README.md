@@ -107,32 +107,32 @@ The project includes 10 analytical queries:
 ---
 ## Queries and Visualizations
 ## 1 Total revenue from all branches
-![Customer Info](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(1)%20total%20revenue%20from%20all%20branches.png
+![revenue](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(1)%20total%20revenue%20from%20all%20branches.png
 )
 ## 2 Top 5 most sold tea products
-(https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(2)%20top%205%20most%20solid%20tea%20product.png)
+![tea product](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(2)%20top%205%20most%20solid%20tea%20product.png)
 
 ## 3 Orders from PIN code '700001'
-(https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(3)%20order%20from%20pin%20code'700001'.png)
+![pin code](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(3)%20order%20from%20pin%20code'700001'.png)
 
 ## 4 Order count per branch
-(https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(4)%20order%20count%20per%20branch.png)
+![branch](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(4)%20order%20count%20per%20branch.png)
 
 ## 5 Top-performing employee
-(https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(5)%20top-performing%20employee.png)
+![top employee](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(5)%20top-performing%20employee.png)
 
 ## 6 Average quantity per order
-(https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(6)%20avarage%20quantity%20per%20order.png)
+![quantity per order](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(6)%20avarage%20quantity%20per%20order.png)
 
 ## 7 Recent 7-day orders
-(https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(6)%20avarage%20quantity%20per%20order.png)
+![order](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(6)%20avarage%20quantity%20per%20order.png)
 
 ## 8 Frequent customers (5+ orders)
-(https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(8)frequent%20customer%20(5%2Border).png)
+![frequency customer](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(8)frequent%20customer%20(5%2Border).png)
 
 ## 9 Revenue per product
-(https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(9)%20revenue%20per%20product.png)
+![revenue per product](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(9)%20revenue%20per%20product.png)
 
 ## 10 Orders grouped by employee role
-(https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(10)order%20grouped%20by%20employee%20role.png)
+![employee role](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(10)order%20grouped%20by%20employee%20role.png)
 
