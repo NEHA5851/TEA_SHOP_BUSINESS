@@ -1,7 +1,7 @@
-# TEA_SHOP_BUSINESS
+# ☕ TEA_SHOP_BUSINESS
 ![image](https://github.com/user-attachments/assets/1769c344-469e-4354-b11f-20a51113c055)
 
-# 🍵 Tea Shop Business Database Management System
+# ☕🌿 Tea Shop Business Database Management System
 
 This project represents a complete relational database for managing a tea shop business across multiple branches. It captures data related to orders, customers, products, employees, and branches, and provides insightful queries for business analysis.
 
@@ -14,7 +14,7 @@ This project represents a complete relational database for managing a tea shop b
 - **README**: Overview and guide to understand and use the database.
 ---
 
-## 🛠️ **Tool USED: 
+## 🛠️ Tool USED: 
 ![image](https://github.com/user-attachments/assets/3b83f541-1d2f-4744-9bc5-73337a7f42c0)
 ---
 
