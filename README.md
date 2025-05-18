@@ -1,5 +1,5 @@
 ## TEA_SHOP_BUSINESS
-![image](https://github.com/user-attachments/assets/fbffe155-c7c8-44b0-9259-ce248929f71e)
+![image](https://github.com/user-attachments/assets/32cf8ea5-85f4-4597-b07c-afc3b92fd6c8)
 
 # 🍵 Tea Shop Business Database Management System
 
