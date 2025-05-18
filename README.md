@@ -1,4 +1,4 @@
-## TEA_SHOP_BUSINESS
+# TEA_SHOP_BUSINESS
 ![image](https://github.com/user-attachments/assets/c90a0ac3-4085-42c7-9ac1-dda328496903)
 
 # 🍵 Tea Shop Business Database Management System
