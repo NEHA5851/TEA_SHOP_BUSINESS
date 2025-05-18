@@ -14,7 +14,7 @@ This project represents a complete relational database for managing a tea shop b
 - **README**: Overview and guide to understand and use the database.
 ---
 
-## 🛠️ **Tools**: 
+## 🛠️ **Tool USED: 
 ![image](https://github.com/user-attachments/assets/3b83f541-1d2f-4744-9bc5-73337a7f42c0)
 ---
 
