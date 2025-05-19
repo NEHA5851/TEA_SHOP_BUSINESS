@@ -124,7 +124,7 @@ The project includes 10 analytical queries:
 ![quantity per order](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(6)%20avarage%20quantity%20per%20order.png)
 
 ## 7 Orders placed in the last 7 days
-![order](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(6)%20avarage%20quantity%20per%20order.png)
+![order](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(7)%20recent%207-day%20order.png)
 
 ## 8 Customers who ordered more than 5 times
 ![frequency customer](https://github.com/NEHA5851/TEA_SHOP_BUSINESS/blob/main/code_%20output_tea_shop/(8)frequent%20customer%20(5%2Border).png)
